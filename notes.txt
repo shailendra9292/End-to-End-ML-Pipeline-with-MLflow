@@ -1,2 +1,12 @@
 difference between git merge and rebase
 complete tutorial on python loggers
+
+The setup.py file is at the heart of a Python project. It describes all the metadata about your project. There are quite a few fields you can add to a project to give it a rich set of metadata describing the project. However, there are only three required fields: name, version, and packages.
+https://www.geeksforgeeks.org/what-is-setup-py-in-python/
+
+end-to-end ml pipeline using Dockers, Azure and pycaret
+https://www.datacamp.com/tutorial/tutorial-machine-learning-pipelines-mlops-deployment
+
+ci-cd using github actions
+https://www.datacamp.com/tutorial/ci-cd-for-machine-learning
+
